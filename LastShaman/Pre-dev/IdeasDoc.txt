@@ -1,0 +1,25 @@
+Primary Elements
+ - Fire
+ - Frost
+ - Air
+ - Earth
+
+Secondary Elements
+
+Water - Fire/Frost
+Volcanic - Fire/Earth
+Lightning - Air / Frost
+Pressure(?) - Air/Earth
+
+Stance-Dancing - Similar to GW2 Elementalist
+Dual Elements require two presses in quick successsion
+
+Elemental Interactions
+Earth - High Damage, Physical, Stagger Damage
+Fire - High Damages, DoTs
+Water - Mostly Utility to combo, debuff removal, Healing
+Air - Higher overall movespeed, Greater-air control
+Frost - Slows, Shatter (Combo with Earth).
+Lighting - High in-combat speed, Stuns
+Pressure - Combo for damage, Super Hi-Jump / Push
+Volcanic - Less damage than Fire, Slow projectiles, Less damage then Earth, Larger AoE
